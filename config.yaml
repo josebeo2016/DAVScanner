@@ -1,0 +1,6 @@
+repo_storage: "docker"
+repo_regis: "172.16.5.111"
+nvd_api_key: "68bb57d4-d9ef-48f3-a95e-10e06b6a49cc"
+repo_user: "admin"
+repo_pass: "Harbor12345"
+registry_tls_verify: False

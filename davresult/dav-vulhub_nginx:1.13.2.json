@@ -1,0 +1,1748 @@
+[
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2009-5155",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2010-3192",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2010-4756",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2012-4412",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2012-4424",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-0242",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-1914",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-2207",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-4122",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-4237",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-4332",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-4412",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-4458",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-4788",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2013-7423",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-0475",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-4043",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-5119",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-6040",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-8121",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-9402",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-9761",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2014-9984",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-0235",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-1472",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-1473",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-1781",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-5180",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-5277",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-7547",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8776",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8777",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8778",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8779",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8982",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8983",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8984",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2015-8985",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-10228",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-10739",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-1234",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-2856",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-3075",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-3706",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-4429",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-5417",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2016-6323",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2017-1000366",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2017-12132",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2017-12133",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2017-15670",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2017-15671",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2017-15804",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2018-1000001",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2018-11236",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2018-11237",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2018-19591",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2018-20796",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2018-6485",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2019-19126",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2019-25013",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2019-6488",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2019-7309",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2019-9169",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2019-9192",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2020-10029",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2020-1751",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2020-1752",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2020-27618",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2020-29573",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2020-6096",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2021-3326",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2021-35942",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2021-38604",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2021-3999",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2022-23218",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.17",
+        "cve": "CVE-2022-23219",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2006-7254",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2009-4880",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2009-4881",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2009-5029",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2009-5155",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2010-0296",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2010-0830",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2010-3192",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2010-3847",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2010-3856",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2010-4756",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-1071",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-1089",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-1095",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-1658",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-1659",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-2702",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-4609",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2011-5320",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2012-4412",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2012-4424",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2012-6656",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-1914",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-2207",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-4122",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-4237",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-4332",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-4458",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-4788",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-7423",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2013-7424",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-0475",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-4043",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-5119",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-6040",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-8121",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-9402",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-9761",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2014-9984",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-0235",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-1472",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-1473",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-1781",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-5180",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-5277",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8776",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8777",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8778",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8779",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8982",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8983",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8984",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2015-8985",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-10228",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-10739",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-1234",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-2856",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-3075",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-3706",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-4429",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-5417",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2016-6323",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2017-1000366",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2017-12132",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2017-12133",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2017-15670",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2017-15671",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2017-15804",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2018-1000001",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2018-11236",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2018-11237",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2018-19591",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2018-20796",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2018-6485",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2019-19126",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2019-25013",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2019-6488",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2019-7309",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2019-9169",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2019-9192",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2020-10029",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2020-1751",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2020-1752",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2020-27618",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2020-29573",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2020-6096",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2021-3326",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2021-35942",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2021-38604",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2021-3999",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2022-23218",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.4",
+        "cve": "CVE-2022-23219",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "bash",
+        "version": "4.4.12",
+        "cve": "CVE-2019-18276",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2009-5029",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2009-5155",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2010-3192",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2010-4756",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2011-4609",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2011-5320",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2012-0864",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2012-3405",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2012-4412",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2012-4424",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2012-6656",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-1914",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-2207",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-4237",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-4332",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-4458",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-4788",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-7423",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2013-7424",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-0475",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-4043",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-5119",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-6040",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-8121",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-9402",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-9761",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2014-9984",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-0235",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-1472",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-1473",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-1781",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-5180",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-5277",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-7547",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8776",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8777",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8778",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8779",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8982",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8983",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8984",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2015-8985",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-10228",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-10739",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-1234",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-2856",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-3075",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-3706",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-4429",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-5417",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2016-6323",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2017-1000366",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2017-12132",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2017-12133",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2017-15670",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2017-15671",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2017-15804",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2018-1000001",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2018-11236",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2018-11237",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2018-19591",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2018-20796",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2018-6485",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2019-19126",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2019-25013",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2019-6488",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2019-7309",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2019-9169",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2019-9192",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2020-10029",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2020-1751",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2020-1752",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2020-27618",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2020-29573",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2020-6096",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2021-3326",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2021-35942",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2021-38604",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2021-3999",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2022-23218",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.14",
+        "cve": "CVE-2022-23219",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2009-5155",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2010-3192",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2010-4756",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2013-4412",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2015-5180",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2015-8985",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2016-10228",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2016-10739",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2016-6323",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2017-1000366",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2017-12132",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2017-12133",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2017-15670",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2017-15671",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2017-15804",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2017-18269",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2018-1000001",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2018-11236",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2018-11237",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2018-19591",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2018-20796",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2018-6485",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2018-6551",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2019-19126",
+        "severity": "LOW"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2019-25013",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2019-6488",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2019-7309",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2019-9169",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2019-9192",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2020-10029",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2020-1751",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2020-1752",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2020-27618",
+        "severity": "MEDIUM"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2020-6096",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2021-3326",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2021-35942",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2021-38604",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2021-3999",
+        "severity": "HIGH"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2022-23218",
+        "severity": "CRITICAL"
+    },
+    {
+        "package": "glibc",
+        "version": "2.24",
+        "cve": "CVE-2022-23219",
+        "severity": "CRITICAL"
+    }
+]
